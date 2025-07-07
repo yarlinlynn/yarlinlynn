@@ -39,23 +39,9 @@ const yarlin = {
 
 <br/>
 
-## 🎨 Featured Projects
-
-<a href="https://glowing-skincare-ecommerce-website.netlify.app/"><strong>Glowing</strong></a>: A fully responsive skincare eCommerce website utilizing javascript to make the cart functional, allowing you to add to cart, increase, decrease the quantity of items which will update the cart total and as delete items from the cart, creating a dynamic site. <br/>
-
-<a href="https://yarlinlynn-portfolio.netlify.app/"><strong>Portfolio</strong></a>: A modern and interactive portfolio designed to showcase my projects, css animations and credientials. Animated grid layouts to enhance user experience. Fully optimized for all screen sizes, including mobile, tablet, and desktop.
-<br/>
-
-
 ## 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=yarlinlynn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> <img src="https://nirzak-streak-stats.vercel.app/?user=yarlinlynn&theme=dark&hide_border=false" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarlinlynn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> 
-
-<br/>
-
-## 🔥 My Commit History
->My goal is to commit daily — consistency is key!
-<p align="center"> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yarlinlynn&bg_color=0d1117&color=fa8072&line=ffa07a&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" /> </p> 
 
 <br/>
 
