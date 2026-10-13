@@ -1,19 +1,19 @@
 # Hey there, I’m Yarlin! 👋 
 
-Welcome to my corner of GitHub — where code meets functionality, bugs don’t stand a chance and continually building immersive frontend projects one commit at a time.
+Welcome to my corner of GitHub — where code meets functionality, bugs don’t stand a chance and am continually building immersive frontend projects one commit at a time.
 
 ## 💫 About Me:
-🌱 I’m aspiring to get better at Animations<br>
-🔭 I’m working on projects mainly using HTML, Tailwind CSS, JavaScript, JavaScript Components & External Libraries<br>
+🌱 Learning GSAP to incorporate better web animations into my projects<br>
+🔭 Creating projects mainly using HTML, Tailwind CSS, JavaScript, JavaScript Components<br>
 💬 Ask me about my manga obsession<br>
 
 ```
 const yarlin = {
   specialty: "Frontend",
-  learning: ["GSAP", "JavaScript Components", "SEO"],
+  learning: ["GSAP"],
   goals: {
-    shortTerm: "Create unique and fun applications using JavaScript Components with Tailwind CSS",
-    longTerm: "Work as a freelance dev creating meaningful digital experiences",
+    shortTerm: "Create unique and fun applications using JavaScript Components and Tailwind CSS",
+    longTerm: "Work as a freelance/contract frontend web developer.",
   },
   vibes: ["Focused", "Adaptable", "Always improving"],
 };
@@ -44,8 +44,6 @@ It's designed to feel like a little macOS desktop, so have a click around, open 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  <br>
-
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
 
